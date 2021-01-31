@@ -1,5 +1,6 @@
 # RestApiApp
 DOWNLOAD EXPO IN YOUR MOB DIVICE
+npm install react-navigation
 TYPE NPM INSTALL
 GET THE API KEY
 RUN NPM START
